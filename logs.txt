@@ -1,3 +1,9 @@
+commit e1ab6078842b403e254b8ff3ed7361e8e7238fd2
+Author: Marko <marko.kungulovski@students.finki.ukim.mk>
+Date:   Sun Apr 14 21:48:09 2024 +0200
+
+    Final commit
+
 commit d7fc8cb7064d6f2fd26ed26d8fe45b8ffc8002c4
 Author: Marko <marko.kungulovski@students.finki.ukim.mk>
 Date:   Sun Apr 14 19:52:41 2024 +0200
