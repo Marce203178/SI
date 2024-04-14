@@ -1,0 +1,57 @@
+commit d7fc8cb7064d6f2fd26ed26d8fe45b8ffc8002c4
+Author: Marko <marko.kungulovski@students.finki.ukim.mk>
+Date:   Sun Apr 14 19:52:41 2024 +0200
+
+    Call method makeBigStringFrom in main class
+    
+    t status
+
+commit 04d25fca36060f4f563883faa9b15da5fd537a51
+Author: Marko <marko.kungulovski@students.finki.ukim.mk>
+Date:   Sun Apr 14 19:33:56 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 4cf6ef5cae3e218b74bdff548b8abc543a9324b7
+Merge: ae0462b 9fc294f
+Author: Marko <marko.kungulovski@students.finki.ukim.mk>
+Date:   Sun Apr 14 20:33:00 2024 +0200
+
+    Merge branch 'bug1'
+
+commit ae0462b460bbee89667d1ea49ecf50f6db8e13bb
+Merge: 9d8b55b 41ca4d7
+Author: Marko <marko.kungulovski@students.finki.ukim.mk>
+Date:   Sun Apr 14 19:56:49 2024 +0200
+
+    Merge branch 'master' of https://github.com/Marce203176/SI_2024_lab1_203178
+
+commit 9fc294fa9e3acfdad2958aa588db2b40344120dc
+Author: Marko <marko.kungulovski@students.finki.ukim.mk>
+Date:   Sun Apr 14 19:43:47 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 25781c9e13d1208cd957ece42ba8e1221541ba34
+Author: Marko <marko.kungulovski@students.finki.ukim.mk>
+Date:   Sun Apr 14 19:22:20 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 9d8b55b7045ac02e31372860f9550476b3c0586b
+Author: Marko <marko.kungulovski@students.finki.ukim.mk>
+Date:   Mon Apr 8 16:35:34 2024 +0200
+
+    Add starter code
+
+commit 41ca4d7efdc026bade96ab46abed33680aca8ee9
+Author: Marko <marko.kungulovski@students.finki.ukim.mk>
+Date:   Mon Apr 8 16:35:34 2024 +0200
+
+    Add downloaded files
+
+commit 7a3095c5aca170e35209331f44f6d25b461a86f5
+Author: Marko <marko.kungulovski@students.finki.ukim.mk>
+Date:   Sat Apr 6 23:28:14 2024 +0200
+
+    initial commit
