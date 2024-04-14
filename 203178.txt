@@ -1,0 +1,30 @@
+1. instal Git i kreiraj Github profil.
+2. glavna granka se vika master.
+3. kreiram remote repozitorium na Github so ime SI_2024_lab1_203178.
+4. mkdir SI_2024_lab1_203178; cd SI_2024_lab1_203178; Git init;
+5. git remote add origin https://github.com/Marce203178/SI_2024_lab1_203178.git
+6. touch README.md; add README.md; notepad README.md - pisi ime prezime index; git commit -m "initial commit".
+7. Prevzemi 3 fajla vo lokalniot repozitorium i napravi git add. i git commit -m "Add starter code".
+8. git push -u origin master.
+9. git checkout -b bug1; git checkout -b bug2;
+10.git checkout bug1.
+11. notepad SILab1_1.java (menuvam file i save); git add SILab1_1.java; git commit -m "Fix wrong condition..." .
+12. git checkout bug2
+13. notepad SILab1_2.java (menuvam file i save); git add SILab1_2.java; git commit -m "Fix wrong condition..." .
+14. git checkout bug1
+15.notepad SILab1Main.java (menuvam file); git add SILab1Main.java; git commit -m "Call method..." .
+16. git checkout bug2
+17. notepad SILab1Main.java (menuvam file); git add SILab1Main.java ; git commit -m "Call method ..." .
+18. git push --all
+19. git checkout master
+20. git merge bug1 (izlezi so :wq)
+21. git push --all
+22. git checkout bug2
+23. git rebase master; notepad SILab1Main.java (brisi toa sto treba i save); git add SILab1Main.java; git rebase -- continue.
+24. git checkout master.
+25. git merge bug2 (fast-forward)
+26. git push origin --all
+27. git push --force --all origin
+28. touch logs.txt; git add logs.txt; git log > logs.txt; git commit -m "Final commit".
+touch 203178.txt; git add 203178.txt; notepad 203178.txt(pisi se so si napravil i save); git commit -m "Final commit" .
+29. git push origin --all
